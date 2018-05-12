@@ -1,0 +1,25 @@
+.lunchIt__container {
+  margin-top: 20px;
+  padding: 0 1.5rem;
+  
+}
+
+.lunchIt__button {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+}
+
+.lunchIt__people-list {
+  height: calc(100vh - 10rem);
+  overflow-y: scroll;
+  margin-bottom: 5px;
+}
+
+.lunchIt__clear-btn {
+  /* display: inline-block; */
+  position: absolute;
+  top: 4.5rem;
+  right: 1.5rem;
+}

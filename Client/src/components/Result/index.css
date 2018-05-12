@@ -1,0 +1,37 @@
+.result__container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.result__retry-btn {
+  width: 50%;
+  height: 3rem;
+  margin-top: 2rem;
+}
+
+.result__retry-btn button {
+  width: 100%;
+}
+
+.result__title {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+
+.result {
+  font-size: 1.3rem;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.horizontal-centered {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
